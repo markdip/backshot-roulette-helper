@@ -10,7 +10,7 @@
 
 **Стратегический калькулятор вероятностей для игры Buckshot Roulette**
 
-[🎮 Live Demo](https://your-username.github.io/backshot-roulette-helper) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🎮 Live Demo](https://markdip.github.io/backshot-roulette-helper) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
@@ -282,3 +282,4 @@ Contributions приветствуются! Пожалуйста:
 ⭐ Если проект был полезен — поставьте звезду!
 
 </div>
+
