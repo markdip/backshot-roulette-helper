@@ -10,7 +10,7 @@
 
 **Стратегический калькулятор вероятностей для игры Buckshot Roulette**
 
-[🎮 Live Demo](https://markdip.github.io/backshot-roulette-helper) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🎮 Live Demo](https://ArabKustam.github.io/backshot-roulette-helper) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/markdip/backshot-roulette-helper.git
+git clone https://github.com/ArabKustam/backshot-roulette-helper.git
 
 # Переход в директорию
 cd backshot-roulette-helper
@@ -178,7 +178,7 @@ git add .
 git commit -m "🎯 Initial commit: Buckshot Roulette Helper v1.1.0"
 
 # 5. Добавить remote (замените URL на ваш)
-git remote add origin https://github.com/markdip/backshot-roulette-helper.git
+git remote add origin https://github.com/ArabKustam/backshot-roulette-helper.git
 
 # 6. Принудительный push (перезапишет всё на GitHub)
 git push -u origin main --force
@@ -282,5 +282,6 @@ Contributions приветствуются! Пожалуйста:
 ⭐ Если проект был полезен — поставьте звезду!
 
 </div>
+
 
 
